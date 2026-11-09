@@ -320,10 +320,12 @@ Test, deploy, maintain and continuously improve the solution.
 
 <br/><br/>
 
+<div align="center">
+
 ### BUILD • LEARN • INNOVATE • DEPLOY
 
 <sub>Thanks for visiting my profile. Feel free to explore my repositories.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,50:9A3412,100:431407&height=110&section=footer" width="100%" alt="Footer"/>
-
+</div>
 </div>
