@@ -170,14 +170,7 @@ I enjoy working on problems where software isn't just code — it has to actuall
 └─────────────────────────────────────────────────────────────┘
 ```
 
-📊 GITHUB STATS
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishidev1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishidev1&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
 
 
 <div align="center">
