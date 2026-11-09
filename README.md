@@ -307,23 +307,7 @@ Test, deploy, maintain and continuously improve the solution.
 </tr>
 </table>
 
----
 
-## GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishidev1&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1C100B&title_color=FB923C&text_color=E7D5CA&icon_color=F97316" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishidev1&layout=compact&hide_border=true&bg_color=1C100B&title_color=FB923C&text_color=E7D5CA" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=krishidev1&hide_border=true&background=1C100B&ring=EA580C&fire=FB923C&currStreakLabel=FB923C&sideLabels=E7D5CA&dates=A78B7B" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
 
 ## CURRENT FOCUS
 
@@ -333,21 +317,6 @@ Test, deploy, maintain and continuously improve the solution.
 - Improving backend architecture and database design.
 - Strengthening cloud deployment and DevOps knowledge.
 - Continuously learning modern software engineering practices.
-
----
-
-## LET'S CONNECT
-
-I'm always interested in meaningful engineering challenges, innovative ideas and opportunities to collaborate on technology-driven products.
-
-<div align="center">
-
-<a href="https://github.com/krishidev1">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/krishidevghosh/">
-  <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <br/><br/>
 
