@@ -5,10 +5,6 @@
 ⚡ Building software. Solving problems. Turning ideas into products.
 
 <p>
-
-
-
-  
   <a href="https://github.com/krishidev1">
     <img src="https://img.shields.io/badge/GitHub-krishidev1-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -201,21 +197,7 @@ I'm interested in opportunities where I can:
 - 🛠️ Turn ideas into production-ready products
 - 📚 Continuously learn and improve
 🤝 LET'S CONNECT
-<div align="center">
 
-<a href="https://github.com/krishidev1">
-  <img src="https://img.shields.io/badge/GitHub-KRISHIDEV1-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/krishidevghosh/">
-  <img src="https://img.shields.io/badge/LinkedIn-KRISHIDEV%20GHOSH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:krishidevghosh474@gmail.com">
-  <img src="https://img.shields.io/badge/Email-KRISHIDEVGHOSH474%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 <div align="center">
 
