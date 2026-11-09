@@ -1,65 +1,232 @@
-<!-- KRISHIDEV GHOSH | Premium dark GitHub profile README --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=155&section=header&text=KRISHIDEV%20GHOSH&fontSize=42&fontColor=E6EDF3&fontAlignY=43&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=14&descAlignY=72&descColor=9DA7B3" width="100%" alt="Krishidev Ghosh — Full-Stack Developer and AI/ML Enthusiast" /><p>
-  <a href="https://github.com/krishidev1"><img src="https://img.shields.io/badge/GitHub-krishidev1-161B22?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/krishidevghosh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:krishidevghosh474@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>Building useful software at the intersection of web technology, data, and intelligent systems.
-</div>About
-I'm a Computer Science Engineering graduate focused on building practical, end-to-end software products. I enjoy working across frontend, backend, databases, and AI/ML integrations — especially on problems with real-world impact.
-- Development: Full-stack web applications, REST APIs, and backend services.
-- Interests: AI/ML, computer vision, data-driven products, and AgriTech.
-- Approach: Understand the problem, build the right solution, and keep improving it.
-Selected Work
-<table>
-  <tr>
-    <td width="50%" valign="top">TraceConnect
-An agricultural product traceability platform designed to make product journeys more transparent — from producer and processing stages to the consumer.
+<div align="center">
 
-Focus: Traceability · Supply-chain workflows · Product transparency
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,50:9a3412,100:ea580c&height=180&section=header&text=KRISHIDEV%20GHOSH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://traceconnect.in/"><img src="https://img.shields.io/badge/Visit%20Platform-238636?style=flat&logo=googlechrome&logoColor=white" alt="Visit TraceConnect" /></a>
-<a href="https://github.com/krishidev1/Traceability"><img src="https://img.shields.io/badge/Repository-161B22?style=flat&logo=github&logoColor=white" alt="Traceability repository" /></a>
-</td>
-<td width="50%" valign="top">
-MaatiAI
-An agricultural technology initiative combining web applications, farm data, and intelligent analysis to support monitoring and informed decisions.
+⚡ Building software. Solving problems. Turning ideas into products.
 
-Focus: AgriTech · Farm insights · AI/ML
-</td>
+<p>
 
-  </tr>
-  <tr>
-    <td width="50%" valign="top">Smart Agricultural Drone System
-A smart-farming project exploring drone-assisted field monitoring and targeted agricultural operations.
 
-Focus: Smart farming · Drone technology · Data-driven agriculture
-</td>
-<td width="50%" valign="top">
-SkillZage
-A platform focused on helping students and early-stage founders evaluate business ideas through structured feedback and digital tools.
 
-Focus: Product development · Digital workflows
+  
+  <a href="https://github.com/krishidev1">
+    <img src="https://img.shields.io/badge/GitHub-krishidev1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krishidevghosh/">
+    <img src="https://img.shields.io/badge/LinkedIn-KRISHIDEV%20GHOSH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:krishidevghosh474@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://www.skillzage.com/"><img src="https://img.shields.io/badge/Visit%20Platform-161B22?style=flat&logo=googlechrome&logoColor=white" alt="Visit SkillZage" /></a>
-</td>
-
-  </tr>
-</table>Technology
-<div align="center">Languages
-<img src="https://skillicons.dev/icons?i=python,js,sql" alt="Python, JavaScript and SQL" />
-Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" alt="React, Vite, HTML, CSS and Tailwind CSS" />
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express and FastAPI" />
-Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker" alt="PostgreSQL, MongoDB, MySQL, Git, GitHub and Docker" />
-AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></div>GitHub Activity
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=krishidev1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishidev1&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
-<img src="https://streak-stats.demolab.com?user=krishidev1&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" /></div>What I'm Interested In
-- Building reliable full-stack products.
-- Applying AI/ML to practical use cases.
-- Designing clean APIs and maintainable backend systems.
-- Exploring data-driven solutions for agriculture and supply chains.
-<div align="center">Thanks for stopping by. Feel free to explore my repositories and connect.
 </div>
+
+---
+
+## 👨‍💻 WHO AM I?
+
+I'm **KRISHIDEV GHOSH**, a Computer Science Engineer and Software Engineer who enjoys turning ideas into reliable, usable products.
+
+My work spans across **full-stack development, backend systems, AI/ML integration, cloud technologies and real-world product development.**
+
+
+🚀 WHAT I BUILD
+
+
+🌾 AgriTech & Intelligent Systems
+Building technology around agriculture, traceability and data-driven decision making.
+Maati Trace / MaatiAI
+Full-stack agricultural technology platform integrating web applications with Python/ML systems to support farm data, monitoring and intelligent analysis.
+
+MERN Python Machine Learning MongoDB SQL
+🔗 Supply Chain & Traceability
+TraceConnect
+A digital traceability platform connecting products to their complete origin story — people, places, processes and their journey from producer to consumer.
+
+Supply-chain flow:
+Producer
+   ↓
+Aggregator
+   ↓
+Processor
+   ↓
+Exporter
+   ↓
+Distributor
+   ↓
+Retailer / Consumer
+
+Focused on origin verification, transparency, authenticity, processing claims and producer recognition.
+React Node.js MongoDB REST APIs
+🧠 AI & Intelligent Applications
+Building applications that combine traditional software engineering with AI/ML capabilities.
+Areas I've worked with include:
+Machine Learning NLP Computer Vision ResNet50 DenseNet ML Pipelines
+🏆 FEATURED PROJECTS
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+🔗 TraceConnect
+Digital Traceability Platform
+A full-stack platform providing end-to-end visibility across the product supply chain.
+Tech
+React Node.js MongoDB REST APIs
+
+<a href="[https://github.com/krishidev1/Traceability](https://traceconnect.in/)">
+ <img src="https://img.shields.io/badge/VISIT%20PLATFORM-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🌾 Maati Trace
+Agricultural Technology Platform
+Full-stack agricultural system combining web technologies with Python/ML for intelligent farm applications.
+Tech
+MERN Python Machine Learning SQL
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+💡 SkillZage
+Business Idea Evaluation Platform
+A platform helping students and early-stage founders validate business ideas through structured evaluation, feedback and workspace tools.
+Tech
+Wix Velo Admin Backend Razorpay AI
+
+<a href="https://www.skillzage.com/">
+  <img src="https://img.shields.io/badge/VISIT%20PLATFORM-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+📄 AI Document Insight
+Document Analysis Platform
+Full-stack document analysis application using NLP to extract structured insights from unstructured documents.
+Tech
+React Node.js Python NLP
+
+<a href="https://github.com/Krishidevgithub/Document-Summarizer">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+🛠️ TECHNOLOGY STACK
+
+
+💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,sql" />
+</p>
+
+🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
+
+🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+🤖 AI / ML & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+Machine Learning NLP Computer Vision ResNet50 DenseNet
+☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
+</p>
+
+I enjoy working on problems where software isn't just code — it has to actually **work, scale and solve something meaningful.**
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   💻 Full-Stack Development                                 │
+│   🤖 AI / Machine Learning                                  │
+│   ⚙️ Backend & REST APIs                                    │
+│   🗄️ Database Systems                                       │
+│   ☁️ Cloud & DevOps                                         │
+│   🚀 Product Development                                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+📊 GITHUB STATS
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krishidev1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishidev1&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=krishidev1&hide_border=true&theme=transparent"/>
+
+</div>
+
+
+🎯 WHAT'S NEXT?
+I'm interested in opportunities where I can:
+- 🚀 Build scalable software systems
+- 🧠 Work on challenging engineering problems
+- 🤖 Explore AI / ML applications
+- ☁️ Improve backend and cloud architecture
+- 👥 Work with strong engineering teams
+- 🛠️ Turn ideas into production-ready products
+- 📚 Continuously learn and improve
+🤝 LET'S CONNECT
+<div align="center">
+
+<a href="https://github.com/krishidev1">
+  <img src="https://img.shields.io/badge/GitHub-KRISHIDEV1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishidevghosh/">
+  <img src="https://img.shields.io/badge/LinkedIn-KRISHIDEV%20GHOSH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:krishidevghosh474@gmail.com">
+  <img src="https://img.shields.io/badge/Email-KRISHIDEVGHOSH474%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+  
+  
+  
+  ⚡ BUILD • LEARN • SHIP • REPEAT
+
+If something here catches your attention, feel free to explore my repositories.
+
+</div>
+
+
+
