@@ -1,8 +1,4 @@
-<!-- =========================================================
-     KRISHIDEV GHOSH | GitHub Profile README
-     Create a public repository named exactly: krishidev1
-     Then place this file at the repository root as README.md.
-========================================================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=155&section=header&text=KRISHIDEV%20GHOSH&fontSize=42&fontColor=E6EDF3&fontAlignY=43&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=14&descAlignY=72&descColor=9DA7B3" width="100%" alt="Krishidev Ghosh — Full-Stack Developer and AI/ML Enthusiast" /><p>
+<!-- KRISHIDEV GHOSH | Premium dark GitHub profile README --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=155&section=header&text=KRISHIDEV%20GHOSH&fontSize=42&fontColor=E6EDF3&fontAlignY=43&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=14&descAlignY=72&descColor=9DA7B3" width="100%" alt="Krishidev Ghosh — Full-Stack Developer and AI/ML Enthusiast" /><p>
   <a href="https://github.com/krishidev1"><img src="https://img.shields.io/badge/GitHub-krishidev1-161B22?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/krishidevghosh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:krishidevghosh474@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat&logo=gmail&logoColor=EA4335" alt="Email" /></a>
