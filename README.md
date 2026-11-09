@@ -1,9 +1,3 @@
-
-<!-- =========================================================
-     KRISHIDEV GHOSH | GITHUB PROFILE
-     Theme: Premium Dark / Amber / Orange
-========================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,50:9A3412,100:EA580C&height=190&section=header&text=KRISHIDEV%20GHOSH&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=62&descSize=15" width="100%" alt="Krishidev Ghosh"/>
